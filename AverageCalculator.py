@@ -16,4 +16,8 @@ average = (value_1 + value_2 + value_3) / 3
 
 print(f'\nThe average of the three entered values is {average:.2f}')
 
+total = (value_1 + value_2 + value_3)
+
+print(f'\nThe total of the three entered values is {total:.2f}')
+
 input()
